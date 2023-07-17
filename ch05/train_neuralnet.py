@@ -1,4 +1,6 @@
 # coding: utf-8
+# 学習の実装
+
 import sys, os
 sys.path.append(os.pardir)
 
